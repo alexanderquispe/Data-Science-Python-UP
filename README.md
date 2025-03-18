@@ -18,3 +18,9 @@ This is a course in Data Science wirh Python for UG at UP
 2. Mercedes
 3. Porsche
 4. Ferrari
+
+## Actors
+1. Zendeya
+2. Agelina Jolie
+3. Adam Sandler
+4. Jhony Depp
