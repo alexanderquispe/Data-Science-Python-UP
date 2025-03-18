@@ -24,3 +24,5 @@ This is a course in Data Science wirh Python for UG at UP
 2. Agelina Jolie
 3. Adam Sandler
 4. Jhony Depp
+5. Marlon Brandon
+6. Federico Fellini 
